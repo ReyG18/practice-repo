@@ -1,2 +1,2 @@
 # practice-repo
-Independent practice for html, css, and javascript
+Playground. Nothing to see here
